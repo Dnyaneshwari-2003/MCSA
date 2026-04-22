@@ -1,7 +1,7 @@
 # Child Domain and Groups
 
 
-# Create users on both domain parent is amazon.com chaild is AWS.amazon.com
+# Create users on both domain parent is amazon.com child is AWS.amazon.com
 
 ## Create 5 users in machine1 amazon.com (parent)
 
