@@ -1,9 +1,9 @@
-# child Domain and Groups
+# Child Domain and Groups
 
 
 # Create users on both domain parent is amazon.com chaild is AWS.amazon.com
 
-## create 5 users in machine1 amazon.com (parent)
+## Create 5 users in machine1 amazon.com (parent)
 
 ## 📌 Step 1: Open Active Directory Users and Computers
 1. Click on **Tools** in Server Manager.  
